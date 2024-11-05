@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F66t
 - 👀 My accounts if you want to contact me
-- 🌱 I’m currently learning js 
+- 🌱 I’m currently learning py
 - [ https://discord.gg/iu ]
 - [ https://guns.lol/f6st ]
 
