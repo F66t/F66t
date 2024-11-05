@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @F66t
 - 👀 My accounts if you want to contact me
 - 🌱 I’m currently learning js 
--  Legends Never Die 
 - [ https://discord.gg/iu ]
 - [ https://guns.lol/f6st ]
 
