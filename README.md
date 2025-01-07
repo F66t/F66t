@@ -21,7 +21,6 @@
 - Playing PUBG at spare time
 - Currently learning Web Development by Self
 - I’m currently I'm a successful person now
-- 🎵 **My favorite song**: [Click here to listen](https://www.youtube.com/watch?v=Zh0EagHVyyU)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
