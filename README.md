@@ -18,8 +18,8 @@ Number 1 IQ
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,jquery,bootstrap,ts," /><br/>
-<img src="https://skillicons.dev/icons?i=next,mongodb,mysql,lua,discordjs,npm,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,jquery,bootstrap,ts,next" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,lua,discordjs,npm,git,github,vscode" />
 
 </div>
 
